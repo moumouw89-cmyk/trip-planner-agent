@@ -1,0 +1,15 @@
+[global]
+developmentMode = false
+
+[theme]
+primaryColor = "#2E74B5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F9FC"
+textColor = "#10233F"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

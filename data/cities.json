@@ -1,0 +1,111 @@
+[
+  {
+    "id": "chengdu",
+    "name": "成都",
+    "center": [30.5728, 104.0668],
+    "hotel_rate": 320,
+    "airport_transfer": 80,
+    "tags": ["美食", "熊猫", "休闲"],
+    "pois": [
+      {"id": "cd_panda", "name": "成都大熊猫繁育研究基地", "category": "nature", "lat": 30.735, "lon": 104.145, "visit_minutes": 180, "ticket": 55, "open": "07:30", "close": "18:00", "closed_days": [], "tags": ["熊猫", "自然", "亲子"], "area": "北门", "score": 4.9, "description": "看熊猫幼崽和成年熊猫，建议早上去。"},
+      {"id": "cd_kuanzhai", "name": "宽窄巷子", "category": "culture", "lat": 30.669, "lon": 104.055, "visit_minutes": 90, "ticket": 0, "open": "09:00", "close": "22:00", "closed_days": [], "tags": ["老街", "小吃", "拍照"], "area": "市中心", "score": 4.5, "description": "清代老街改造的步行街区，适合傍晚逛。"},
+      {"id": "cd_wuhou", "name": "武侯祠", "category": "culture", "lat": 30.645, "lon": 104.043, "visit_minutes": 90, "ticket": 50, "open": "08:00", "close": "18:00", "closed_days": [], "tags": ["三国", "历史", "文化"], "area": "武侯祠", "score": 4.6, "description": "三国文化核心景点，和锦里相邻。"},
+      {"id": "cd_jinli", "name": "锦里古街", "category": "food", "lat": 30.646, "lon": 104.044, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["小吃", "夜景", "三国"], "area": "武侯祠", "score": 4.4, "description": "小吃和夜景集中，适合和武侯祠安排在一起。"},
+      {"id": "cd_dufu", "name": "杜甫草堂", "category": "culture", "lat": 30.660, "lon": 104.030, "visit_minutes": 90, "ticket": 50, "open": "08:00", "close": "18:00", "closed_days": [], "tags": ["诗歌", "园林", "历史"], "area": "草堂", "score": 4.6, "description": "园林式博物馆，节奏比热门街区慢。"},
+      {"id": "cd_taikoo", "name": "春熙路·太古里", "category": "shopping", "lat": 30.657, "lon": 104.082, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["购物", "美食", "城市"], "area": "市中心", "score": 4.3, "description": "成都最集中的商圈，适合晚上吃饭逛街。"},
+      {"id": "cd_people", "name": "人民公园", "category": "nature", "lat": 30.657, "lon": 104.060, "visit_minutes": 60, "ticket": 0, "open": "06:00", "close": "22:00", "closed_days": [], "tags": ["茶馆", "休闲", "本地生活"], "area": "市中心", "score": 4.2, "description": "喝盖碗茶、看本地人打牌，体验成都慢生活。"},
+      {"id": "cd_dongjiao", "name": "东郊记忆", "category": "culture", "lat": 30.670, "lon": 104.120, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["工业风", "拍照", "演出"], "area": "东门", "score": 4.2, "description": "老厂房改造的文创园区，适合拍照和看演出。"}
+    ]
+  },
+  {
+    "id": "xian",
+    "name": "西安",
+    "center": [34.261, 108.942],
+    "hotel_rate": 300,
+    "airport_transfer": 60,
+    "tags": ["历史", "美食", "博物馆"],
+    "pois": [
+      {"id": "xa_terracotta", "name": "秦始皇兵马俑", "category": "culture", "lat": 34.385, "lon": 109.278, "visit_minutes": 180, "ticket": 120, "open": "08:30", "close": "17:00", "closed_days": [], "tags": ["兵马俑", "历史", "必去"], "area": "临潼", "score": 4.9, "description": "西安最核心的历史景点，建议留半天。"},
+      {"id": "xa_huaqing", "name": "华清宫", "category": "culture", "lat": 34.362, "lon": 109.214, "visit_minutes": 120, "ticket": 120, "open": "07:30", "close": "18:00", "closed_days": [], "tags": ["历史", "园林", "温泉"], "area": "临潼", "score": 4.5, "description": "和兵马俑同在临潼，适合安排在同一天。"},
+      {"id": "xa_wall", "name": "西安城墙", "category": "landmark", "lat": 34.261, "lon": 108.942, "visit_minutes": 120, "ticket": 54, "open": "08:00", "close": "22:00", "closed_days": [], "tags": ["城墙", "骑行", "夜景"], "area": "城墙内", "score": 4.7, "description": "可以骑车绕城墙，傍晚看日落。"},
+      {"id": "xa_shaanxi", "name": "陕西历史博物馆", "category": "museum", "lat": 34.222, "lon": 108.953, "visit_minutes": 150, "ticket": 0, "open": "08:30", "close": "18:00", "closed_days": ["Monday"], "tags": ["博物馆", "历史", "免费"], "area": "小寨", "score": 4.8, "description": "需要提前预约，周一闭馆。"},
+      {"id": "xa_bigwildgoose", "name": "大雁塔", "category": "landmark", "lat": 34.219, "lon": 108.960, "visit_minutes": 90, "ticket": 40, "open": "08:00", "close": "18:30", "closed_days": [], "tags": ["唐代", "建筑", "夜景"], "area": "大雁塔", "score": 4.6, "description": "大慈恩寺内，晚上可连大唐不夜城。"},
+      {"id": "xa_datang", "name": "大唐不夜城", "category": "nightlife", "lat": 34.214, "lon": 108.963, "visit_minutes": 120, "ticket": 0, "open": "18:00", "close": "23:00", "closed_days": [], "tags": ["夜景", "演出", "步行街"], "area": "大雁塔", "score": 4.5, "description": "夜间步行街，适合看灯光和街头表演。"},
+      {"id": "xa_muslim", "name": "回民街", "category": "food", "lat": 34.263, "lon": 108.940, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "23:00", "closed_days": [], "tags": ["小吃", "夜市", "美食"], "area": "钟楼", "score": 4.2, "description": "西安小吃集中地，适合晚上边逛边吃。"},
+      {"id": "xa_bell", "name": "钟鼓楼", "category": "landmark", "lat": 34.261, "lon": 108.941, "visit_minutes": 60, "ticket": 30, "open": "08:30", "close": "20:00", "closed_days": [], "tags": ["地标", "夜景", "历史"], "area": "钟楼", "score": 4.3, "description": "西安市中心地标，适合和回民街一起逛。"}
+    ]
+  },
+  {
+    "id": "hangzhou",
+    "name": "杭州",
+    "center": [30.274, 120.155],
+    "hotel_rate": 380,
+    "airport_transfer": 80,
+    "tags": ["西湖", "园林", "休闲"],
+    "pois": [
+      {"id": "hz_westlake", "name": "西湖", "category": "nature", "lat": 30.243, "lon": 120.150, "visit_minutes": 150, "ticket": 0, "open": "00:00", "close": "23:59", "closed_days": [], "tags": ["西湖", "步行", "日落"], "area": "西湖", "score": 4.9, "description": "杭州核心景区，建议分段步行或骑行。"},
+      {"id": "hz_lingyin", "name": "灵隐寺", "category": "culture", "lat": 30.241, "lon": 120.101, "visit_minutes": 120, "ticket": 75, "open": "07:00", "close": "18:00", "closed_days": [], "tags": ["寺庙", "山林", "文化"], "area": "灵隐", "score": 4.7, "description": "飞来峰和灵隐寺，建议上午去。"},
+      {"id": "hz_xixi", "name": "西溪湿地", "category": "nature", "lat": 30.270, "lon": 120.062, "visit_minutes": 180, "ticket": 80, "open": "08:00", "close": "17:30", "closed_days": [], "tags": ["湿地", "自然", "摇橹船"], "area": "西溪", "score": 4.5, "description": "面积大，建议选一个区域慢慢逛。"},
+      {"id": "hz_hefang", "name": "河坊街", "category": "food", "lat": 30.240, "lon": 120.170, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["小吃", "老街", "购物"], "area": "吴山", "score": 4.1, "description": "南宋御街一带，适合晚上吃小吃。"},
+      {"id": "hz_leifeng", "name": "雷峰塔", "category": "landmark", "lat": 30.232, "lon": 120.149, "visit_minutes": 60, "ticket": 40, "open": "08:00", "close": "20:00", "closed_days": [], "tags": ["西湖", "日落", "地标"], "area": "西湖", "score": 4.4, "description": "看西湖全景，傍晚光线更好。"},
+      {"id": "hz_longjing", "name": "龙井村", "category": "nature", "lat": 30.219, "lon": 120.104, "visit_minutes": 120, "ticket": 0, "open": "09:00", "close": "18:00", "closed_days": [], "tags": ["茶园", "徒步", "茶文化"], "area": "龙井", "score": 4.5, "description": "茶园和九溪徒步，适合喜欢自然的人。"},
+      {"id": "hz_canal", "name": "拱宸桥·运河", "category": "culture", "lat": 30.320, "lon": 120.141, "visit_minutes": 90, "ticket": 0, "open": "09:00", "close": "22:00", "closed_days": [], "tags": ["运河", "夜景", "博物馆"], "area": "拱墅", "score": 4.2, "description": "京杭大运河边，周边有刀剪剑博物馆。"},
+      {"id": "hz_songcheng", "name": "宋城", "category": "nightlife", "lat": 30.173, "lon": 120.094, "visit_minutes": 180, "ticket": 320, "open": "10:00", "close": "21:00", "closed_days": [], "tags": ["演出", "主题公园", "亲子"], "area": "之江", "score": 4.3, "description": "以宋城千古情演出为核心，票价较高。"}
+    ]
+  },
+  {
+    "id": "xiamen",
+    "name": "厦门",
+    "center": [24.479, 118.089],
+    "hotel_rate": 350,
+    "airport_transfer": 50,
+    "tags": ["海边", "美食", "文艺"],
+    "pois": [
+      {"id": "xm_gulangyu", "name": "鼓浪屿", "category": "landmark", "lat": 24.447, "lon": 118.063, "visit_minutes": 240, "ticket": 100, "open": "08:00", "close": "18:00", "closed_days": [], "tags": ["海岛", "建筑", "步行"], "area": "鼓浪屿", "score": 4.8, "description": "需要坐轮渡上岛，建议留半天。"},
+      {"id": "xm_xmu", "name": "厦门大学", "category": "culture", "lat": 24.436, "lon": 118.096, "visit_minutes": 90, "ticket": 0, "open": "12:00", "close": "17:00", "closed_days": [], "tags": ["校园", "建筑", "预约"], "area": "厦大", "score": 4.5, "description": "需要预约，和南普陀寺相邻。"},
+      {"id": "xm_nanputuo", "name": "南普陀寺", "category": "culture", "lat": 24.439, "lon": 118.098, "visit_minutes": 60, "ticket": 0, "open": "05:00", "close": "18:00", "closed_days": [], "tags": ["寺庙", "素斋", "文化"], "area": "厦大", "score": 4.4, "description": "闽南佛教寺庙，可以尝素斋。"},
+      {"id": "xm_huandao", "name": "环岛路", "category": "nature", "lat": 24.430, "lon": 118.140, "visit_minutes": 120, "ticket": 0, "open": "00:00", "close": "23:59", "closed_days": [], "tags": ["海边", "骑行", "日落"], "area": "环岛", "score": 4.6, "description": "沿海骑行道，适合傍晚看海。"},
+      {"id": "xm_zengcuo", "name": "曾厝垵", "category": "food", "lat": 24.433, "lon": 118.126, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "23:00", "closed_days": [], "tags": ["小吃", "民宿", "夜市"], "area": "环岛", "score": 4.0, "description": "小吃和民宿集中，适合晚上逛。"},
+      {"id": "xm_zhongshan", "name": "中山路步行街", "category": "shopping", "lat": 24.455, "lon": 118.081, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["骑楼", "小吃", "购物"], "area": "老城", "score": 4.2, "description": "骑楼老街，适合吃海鲜和买伴手礼。"},
+      {"id": "xm_botanical", "name": "厦门园林植物园", "category": "nature", "lat": 24.451, "lon": 118.113, "visit_minutes": 120, "ticket": 30, "open": "06:30", "close": "18:00", "closed_days": [], "tags": ["植物", "雨林", "拍照"], "area": "万石山", "score": 4.5, "description": "雨林世界和多肉区很适合拍照。"},
+      {"id": "xm_jimei", "name": "集美学村", "category": "culture", "lat": 24.568, "lon": 118.102, "visit_minutes": 120, "ticket": 0, "open": "09:00", "close": "18:00", "closed_days": [], "tags": ["嘉庚建筑", "校园", "人文"], "area": "集美", "score": 4.3, "description": "嘉庚建筑群，离岛内较远，适合单独半天。"}
+    ]
+  },
+  {
+    "id": "shenzhen",
+    "name": "深圳",
+    "center": [22.543, 114.058],
+    "hotel_rate": 420,
+    "airport_transfer": 40,
+    "tags": ["海边", "城市", "周末"],
+    "pois": [
+      {"id": "sz_window", "name": "世界之窗", "category": "landmark", "lat": 22.536, "lon": 113.974, "visit_minutes": 180, "ticket": 220, "open": "09:00", "close": "22:00", "closed_days": [], "tags": ["主题公园", "亲子", "夜景"], "area": "华侨城", "score": 4.2, "description": "微缩景观主题公园，票价较高。"},
+      {"id": "sz_bay", "name": "深圳湾公园", "category": "nature", "lat": 22.517, "lon": 113.944, "visit_minutes": 120, "ticket": 0, "open": "00:00", "close": "23:59", "closed_days": [], "tags": ["海边", "骑行", "日落"], "area": "深圳湾", "score": 4.7, "description": "看海和红树林，傍晚骑行很舒服。"},
+      {"id": "sz_lianhua", "name": "莲花山公园", "category": "nature", "lat": 22.555, "lon": 114.057, "visit_minutes": 90, "ticket": 0, "open": "06:00", "close": "23:00", "closed_days": [], "tags": ["城市", "徒步", "夜景"], "area": "福田", "score": 4.5, "description": "爬小山看市民中心天际线，适合傍晚。"},
+      {"id": "sz_oct", "name": "华侨城创意园", "category": "culture", "lat": 22.541, "lon": 113.993, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["文创", "咖啡", "拍照"], "area": "华侨城", "score": 4.3, "description": "旧厂房改造的文创园，咖啡店多。"},
+      {"id": "sz_dapeng", "name": "大鹏所城", "category": "culture", "lat": 22.593, "lon": 114.499, "visit_minutes": 150, "ticket": 0, "open": "08:30", "close": "17:30", "closed_days": [], "tags": ["古城", "海边", "历史"], "area": "大鹏", "score": 4.4, "description": "明清海防古城，离市区较远。"},
+      {"id": "sz_yangmeikeng", "name": "杨梅坑", "category": "nature", "lat": 22.552, "lon": 114.558, "visit_minutes": 150, "ticket": 0, "open": "00:00", "close": "23:59", "closed_days": [], "tags": ["海边", "徒步", "拍照"], "area": "大鹏", "score": 4.5, "description": "海岸线徒步，适合和较场尾一起安排。"},
+      {"id": "sz_nantou", "name": "南头古城", "category": "culture", "lat": 22.540, "lon": 113.923, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["古城", "文创", "小吃"], "area": "南山", "score": 4.1, "description": "城中村改造的文创街区，适合半日游。"},
+      {"id": "sz_museum", "name": "深圳博物馆", "category": "museum", "lat": 22.548, "lon": 114.058, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "18:00", "closed_days": ["Monday"], "tags": ["博物馆", "免费", "历史"], "area": "福田", "score": 4.3, "description": "了解深圳城市史，周一闭馆。"}
+    ]
+  },
+  {
+    "id": "kunming",
+    "name": "昆明",
+    "center": [25.038, 102.718],
+    "hotel_rate": 320,
+    "airport_transfer": 60,
+    "tags": ["春城", "滇池", "花市"],
+    "pois": [
+      {"id": "km_shilin", "name": "石林风景区", "category": "nature", "lat": 24.814, "lon": 103.324, "visit_minutes": 180, "ticket": 130, "open": "08:00", "close": "18:00", "closed_days": [], "tags": ["喀斯特", "自然", "必去"], "area": "石林", "score": 4.8, "description": "世界自然遗产，距市区约 70 公里，需留出往返时间。"},
+      {"id": "km_dianchi", "name": "滇池海埂公园", "category": "nature", "lat": 24.956, "lon": 102.668, "visit_minutes": 120, "ticket": 0, "open": "07:00", "close": "19:00", "closed_days": [], "tags": ["滇池", "海鸥", "骑行"], "area": "滇池", "score": 4.5, "description": "看滇池和西山，冬季可看海鸥。"},
+      {"id": "km_minzu", "name": "云南民族村", "category": "culture", "lat": 24.966, "lon": 102.668, "visit_minutes": 150, "ticket": 90, "open": "08:30", "close": "18:00", "closed_days": [], "tags": ["民族", "文化", "亲子"], "area": "滇池", "score": 4.4, "description": "云南少数民族建筑和表演，和滇池相邻。"},
+      {"id": "km_cuihu", "name": "翠湖公园", "category": "nature", "lat": 25.048, "lon": 102.703, "visit_minutes": 90, "ticket": 0, "open": "06:00", "close": "22:00", "closed_days": [], "tags": ["公园", "海鸥", "慢生活"], "area": "市中心", "score": 4.5, "description": "市中心免费公园，冬天海鸥很多。"},
+      {"id": "km_yunda", "name": "云南大学", "category": "culture", "lat": 25.054, "lon": 102.705, "visit_minutes": 60, "ticket": 0, "open": "08:00", "close": "18:00", "closed_days": [], "tags": ["校园", "银杏", "人文"], "area": "翠湖", "score": 4.4, "description": "老校区有银杏和民国建筑，和翠湖可一起逛。"},
+      {"id": "km_oldstreet", "name": "昆明老街", "category": "food", "lat": 25.035, "lon": 102.712, "visit_minutes": 90, "ticket": 0, "open": "10:00", "close": "22:00", "closed_days": [], "tags": ["老街", "小吃", "夜景"], "area": "市中心", "score": 4.3, "description": "老建筑和小吃集中，适合傍晚逛吃。"},
+      {"id": "km_jinma", "name": "金马碧鸡坊", "category": "landmark", "lat": 25.034, "lon": 102.716, "visit_minutes": 45, "ticket": 0, "open": "00:00", "close": "23:59", "closed_days": [], "tags": ["地标", "夜景", "拍照"], "area": "市中心", "score": 4.2, "description": "昆明市中心地标，晚上亮灯后适合拍照。"},
+      {"id": "km_guandu", "name": "官渡古镇", "category": "culture", "lat": 24.956, "lon": 102.753, "visit_minutes": 120, "ticket": 0, "open": "09:00", "close": "22:00", "closed_days": [], "tags": ["古镇", "小吃", "人文"], "area": "官渡", "score": 4.2, "description": "古塔、寺庙和官渡小吃，离市区不远。"},
+      {"id": "km_xishan", "name": "西山龙门", "category": "nature", "lat": 24.955, "lon": 102.635, "visit_minutes": 150, "ticket": 40, "open": "08:00", "close": "17:30", "closed_days": [], "tags": ["西山", "滇池", "徒步"], "area": "西山", "score": 4.6, "description": "俯瞰滇池的经典路线，台阶较多。"}
+    ]
+  }
+]

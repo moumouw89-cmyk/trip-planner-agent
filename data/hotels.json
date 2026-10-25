@@ -1,0 +1,37 @@
+[
+  {"id": "cd_atour", "city": "chengdu", "name": "春熙路亚朵酒店", "price": 450, "rating": 4.7, "area": "春熙路", "lat": 30.657, "lon": 104.082, "tags": ["商圈", "地铁", "舒适"], "address": "春熙路商圈", "source": "local"},
+  {"id": "cd_quanji", "city": "chengdu", "name": "天府广场全季", "price": 380, "rating": 4.6, "area": "天府广场", "lat": 30.657, "lon": 104.065, "tags": ["地铁", "市中心", "性价比"], "address": "天府广场附近", "source": "local"},
+  {"id": "cd_kuanzhai", "city": "chengdu", "name": "宽窄巷子院落民宿", "price": 280, "rating": 4.5, "area": "宽窄巷子", "lat": 30.669, "lon": 104.055, "tags": ["老街", "安静", "性价比"], "address": "宽窄巷子附近", "source": "local"},
+  {"id": "cd_panda", "city": "chengdu", "name": "熊猫基地亲子酒店", "price": 520, "rating": 4.8, "area": "北门", "lat": 30.735, "lon": 104.145, "tags": ["亲子", "熊猫", "安静"], "address": "熊猫基地附近", "source": "local"},
+  {"id": "cd_taikoo", "city": "chengdu", "name": "太古里设计酒店", "price": 700, "rating": 4.8, "area": "太古里", "lat": 30.657, "lon": 104.082, "tags": ["设计", "商圈", "高档"], "address": "太古里商圈", "source": "local"},
+
+  {"id": "xa_bell", "city": "xian", "name": "钟楼地铁站酒店", "price": 350, "rating": 4.6, "area": "钟楼", "lat": 34.261, "lon": 108.941, "tags": ["地铁", "市中心", "性价比"], "address": "钟楼地铁站附近", "source": "local"},
+  {"id": "xa_dayanta", "city": "xian", "name": "大雁塔景观酒店", "price": 420, "rating": 4.7, "area": "大雁塔", "lat": 34.219, "lon": 108.960, "tags": ["夜景", "舒适", "亲子"], "address": "大雁塔附近", "source": "local"},
+  {"id": "xa_citywall", "city": "xian", "name": "城墙南门民宿", "price": 300, "rating": 4.4, "area": "南门", "lat": 34.252, "lon": 108.945, "tags": ["老城", "安静", "性价比"], "address": "永宁门附近", "source": "local"},
+  {"id": "xa_lingtong", "city": "xian", "name": "临潼温泉酒店", "price": 280, "rating": 4.3, "area": "临潼", "lat": 34.362, "lon": 109.214, "tags": ["温泉", "安静", "亲子"], "address": "华清宫附近", "source": "local"},
+  {"id": "xa_qujiang", "city": "xian", "name": "曲江精品酒店", "price": 500, "rating": 4.8, "area": "曲江", "lat": 34.214, "lon": 108.963, "tags": ["设计", "夜景", "高档"], "address": "大唐不夜城附近", "source": "local"},
+
+  {"id": "hz_westlake", "city": "hangzhou", "name": "西湖湖滨酒店", "price": 600, "rating": 4.8, "area": "西湖", "lat": 30.252, "lon": 120.162, "tags": ["湖景", "商圈", "高档"], "address": "湖滨银泰附近", "source": "local"},
+  {"id": "hz_wulin", "city": "hangzhou", "name": "武林广场全季", "price": 380, "rating": 4.6, "area": "武林", "lat": 30.274, "lon": 120.163, "tags": ["地铁", "市中心", "性价比"], "address": "武林广场附近", "source": "local"},
+  {"id": "hz_longjing", "city": "hangzhou", "name": "龙井茶园民宿", "price": 450, "rating": 4.7, "area": "龙井", "lat": 30.219, "lon": 120.104, "tags": ["茶园", "安静", "自然"], "address": "龙井村", "source": "local"},
+  {"id": "hz_xixi", "city": "hangzhou", "name": "西溪湿地度假酒店", "price": 520, "rating": 4.7, "area": "西溪", "lat": 30.270, "lon": 120.062, "tags": ["湿地", "亲子", "度假"], "address": "西溪湿地附近", "source": "local"},
+  {"id": "hz_hefang", "city": "hangzhou", "name": "河坊街老城民宿", "price": 300, "rating": 4.4, "area": "吴山", "lat": 30.240, "lon": 120.170, "tags": ["老街", "小吃", "性价比"], "address": "河坊街附近", "source": "local"},
+
+  {"id": "xm_zhongshan", "city": "xiamen", "name": "中山路骑楼酒店", "price": 350, "rating": 4.5, "area": "老城", "lat": 24.455, "lon": 118.081, "tags": ["老街", "小吃", "性价比"], "address": "中山路步行街", "source": "local"},
+  {"id": "xm_zengcuo", "city": "xiamen", "name": "曾厝垵海景民宿", "price": 300, "rating": 4.4, "area": "环岛", "lat": 24.433, "lon": 118.126, "tags": ["海边", "民宿", "性价比"], "address": "曾厝垵", "source": "local"},
+  {"id": "xm_gulangyu", "city": "xiamen", "name": "鼓浪屿老别墅酒店", "price": 550, "rating": 4.8, "area": "鼓浪屿", "lat": 24.447, "lon": 118.063, "tags": ["海岛", "历史", "高档"], "address": "鼓浪屿", "source": "local"},
+  {"id": "xm_xmu", "city": "xiamen", "name": "厦大南普陀酒店", "price": 400, "rating": 4.6, "area": "厦大", "lat": 24.436, "lon": 118.096, "tags": ["校园", "安静", "舒适"], "address": "厦门大学附近", "source": "local"},
+  {"id": "xm_huandao", "city": "xiamen", "name": "环岛路海景酒店", "price": 480, "rating": 4.7, "area": "环岛", "lat": 24.430, "lon": 118.140, "tags": ["海景", "亲子", "度假"], "address": "环岛路", "source": "local"},
+
+  {"id": "sz_futian", "city": "shenzhen", "name": "福田中心区酒店", "price": 450, "rating": 4.6, "area": "福田", "lat": 22.548, "lon": 114.058, "tags": ["地铁", "市中心", "舒适"], "address": "福田中心区", "source": "local"},
+  {"id": "sz_bay", "city": "shenzhen", "name": "深圳湾海景酒店", "price": 550, "rating": 4.7, "area": "深圳湾", "lat": 22.517, "lon": 113.944, "tags": ["海景", "舒适", "亲子"], "address": "深圳湾公园附近", "source": "local"},
+  {"id": "sz_oct", "city": "shenzhen", "name": "华侨城设计酒店", "price": 600, "rating": 4.8, "area": "华侨城", "lat": 22.541, "lon": 113.993, "tags": ["设计", "安静", "高档"], "address": "华侨城创意园", "source": "local"},
+  {"id": "sz_dapeng", "city": "shenzhen", "name": "大鹏所城民宿", "price": 380, "rating": 4.4, "area": "大鹏", "lat": 22.593, "lon": 114.499, "tags": ["古城", "海边", "性价比"], "address": "大鹏所城", "source": "local"},
+  {"id": "sz_nanshan", "city": "shenzhen", "name": "南山科技园酒店", "price": 420, "rating": 4.5, "area": "南山", "lat": 22.540, "lon": 113.923, "tags": ["地铁", "商圈", "性价比"], "address": "南山科技园", "source": "local"},
+
+  {"id": "km_cuihu", "city": "kunming", "name": "翠湖宾馆", "price": 380, "rating": 4.6, "area": "翠湖", "lat": 25.048, "lon": 102.703, "tags": ["市中心", "安静", "舒适"], "address": "翠湖公园附近", "source": "local"},
+  {"id": "km_oldstreet", "city": "kunming", "name": "昆明老街酒店", "price": 300, "rating": 4.4, "area": "市中心", "lat": 25.035, "lon": 102.712, "tags": ["老街", "小吃", "性价比"], "address": "昆明老街", "source": "local"},
+  {"id": "km_dianchi", "city": "kunming", "name": "滇池海埂酒店", "price": 420, "rating": 4.5, "area": "滇池", "lat": 24.956, "lon": 102.668, "tags": ["湖景", "亲子", "安静"], "address": "海埂公园附近", "source": "local"},
+  {"id": "km_guandu", "city": "kunming", "name": "官渡古镇民宿", "price": 260, "rating": 4.3, "area": "官渡", "lat": 24.956, "lon": 102.753, "tags": ["古镇", "性价比", "安静"], "address": "官渡古镇", "source": "local"},
+  {"id": "km_north", "city": "kunming", "name": "昆明北站酒店", "price": 350, "rating": 4.4, "area": "北站", "lat": 25.060, "lon": 102.720, "tags": ["地铁", "交通", "性价比"], "address": "昆明北站附近", "source": "local"}
+]
