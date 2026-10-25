@@ -4,6 +4,34 @@
 
 ![行程管家](docs/demo.png)
 
+## 先配置 API（必读）
+
+仓库里**不包含任何 API Key**。第一次运行先复制配置：
+
+```powershell
+copy .env.example .env
+```
+
+然后至少填一个模型 Key：
+
+```text
+OPENAI_API_KEY=你的模型Key
+OPENAI_BASE_URL=https://api.deepseek.com/v1
+OPENAI_MODEL=deepseek-chat
+```
+
+也可以在高德开放平台申请 Web服务 Key：
+
+```text
+AMAP_API_KEY=你的高德Web服务Key
+```
+
+说明：
+
+- **没有配置任何模型 Key 时，系统默认按 OpenAI 配置展示，但不会发起请求**，会自动回退到规则解析 / 模板说明。
+- 没有高德 Key 时，酒店/餐厅/图片会回退到本地演示数据或 Mock 路线。
+- 不要把 `.env` 提交到 Git；仓库已经忽略它。
+
 **行程管家**把一句旅行需求变成一份可执行、可修改、可导出的行程：
 
 ```text
